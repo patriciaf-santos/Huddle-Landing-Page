@@ -23,9 +23,9 @@ Responsividade implementada com media queries (max-width).
 
 🌐 Visualizar o Projeto
 
-<img src="./src/images/desktop-design.jpg" alt= "Imagem Desktop">
+<img src="./src/images/Desk.png" alt= "Imagem Desktop">
 
-<img src="./src/images/mobile-design.jpg" alt= "Imagem Mobile ">
+<img src="./src/images/Mobile.png" alt= "Imagem Mobile ">
 
    👉URL da Landing Page: 
    (https://patriciaf-santos.github.io/Huddle-Landing-Page/)
