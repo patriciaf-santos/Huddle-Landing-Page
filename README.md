@@ -27,6 +27,6 @@ Responsividade implementada com media queries (max-width)
 
 
 
-   ✍️ Desenvolvido por Patrícia Santos
+                    ✍️ Desenvolvido por Patrícia Santos
 
     
