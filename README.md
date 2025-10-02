@@ -22,8 +22,8 @@ Efeitos de interação com hover em botões e links
 Responsividade implementada com media queries (max-width).
 
 🌐 Visualizar o Projeto
-<img src="./src/images/bg-desktop.svg" alt= "Imagem Desktop">
-<img src="./src/images/bg-mobile.svg" alt= "Imagem Mobile ">
+<img src="./src/images/desktop-design.jpg" alt= "Imagem Desktop">
+<img src="./src/images/mobile-design.jpg" alt= "Imagem Mobile ">
 
    👉URL da Landing Page: 
    (https://patriciaf-santos.github.io/Huddle-Landing-Page/)
