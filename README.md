@@ -15,9 +15,10 @@ Reproduzir um layout moderno e responsivo, aplicando boas práticas de código e
 
 📱 Sobre o Projeto
 
- -Layout totalmente responsivopara mobile, tablet e desktop
+ - Layout totalmente responsivopara mobile, tablet e desktop
 Estrutura desenvolvida com Flexbox para organização e alinhamento.
- -Efeitos de interação com hover em botões e links
+
+ - Efeitos de interação com hover em botões e links
 Responsividade implementada com media queries (max-width).
 
 🌐 Visualizar o Projeto
